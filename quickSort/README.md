@@ -1,3 +1,4 @@
+Problem Statement:
 Implement the quick sort algorithm as per pseudo code using C++.
 
 Now sort the arrays using stl::sort, once in ascending order and then in descending order. Given both sorted arrays as inputs to the algorithm and compute their running time. Plot the running time of the best and worst case complexities for different input sizes in a excel sheet and add it in the solution section.
